@@ -19,7 +19,7 @@ This repository and its contents are shared among **fellow students** to assist 
 - **Commercial Use**: Any commercial application or redistribution is strictly prohibited
 - **Unauthorized Distribution**: Sharing beyond our academic cohort without permission
 
-### Disclaimer of Liability
+#### Disclaimer of Liability
 
 #### No Warranty
 This code is provided "AS IS" as a **peer contribution** without warranty of any kind. I'm a fellow student sharing my work to help others learn, not a professional providing guaranteed solutions.
