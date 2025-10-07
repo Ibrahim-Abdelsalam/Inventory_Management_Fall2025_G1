@@ -50,14 +50,6 @@ By accessing this repository, fellow students acknowledge:
 - Learning happens through understanding concepts, not copying solutions
 - Proper attribution should be given when referencing ideas or approaches
 
-### Proper Attribution
-If you reference concepts or approaches from this work in your assignments, please cite appropriately:
-
-```
-Peer collaboration reference: Ibrahim's DBV Analysis Implementation (2025). 
-Shared among Inventory Management Fall 2025 cohort for educational support.
-```
-
 ### Intent Behind Sharing
 I'm sharing this work because:
 - We're all working through these challenging concepts together
