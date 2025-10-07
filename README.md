@@ -5,13 +5,13 @@ This repository and its contents are shared among **fellow students** to assist 
 
 ### Terms and Conditions
 
-###### Permitted Use
+##### Permitted Use
 - **Peer Learning**: Fellow students may view, study, and reference this implementation to enhance their understanding
 - **Study Aid**: Use as a collaborative resource for coursework discussions and concept clarification
 - **Methodology Reference**: Learn from the approaches and techniques demonstrated here
 - **Group Study**: Share insights and discuss implementation strategies with classmates
 
-#### Prohibited Use
+##### Prohibited Use
 - **Direct Submission**: Submitting this work as your own without proper understanding or attribution
 - **Academic Dishonesty**: Using this code to bypass learning requirements or violate integrity policies
 - **Commercial Use**: Any commercial application or redistribution is strictly prohibited
@@ -19,10 +19,10 @@ This repository and its contents are shared among **fellow students** to assist 
 
 #### Disclaimer of Liability
 
-#### No Warranty
+##### No Warranty
 This code is provided "AS IS" as a **peer contribution** without warranty of any kind. I'm a fellow student sharing my work to help others learn, not a professional providing guaranteed solutions.
 
-#### Limitation of Liability
+##### Limitation of Liability
 **As a fellow student sharing my work, I cannot take responsibility for:**
 
 1. **Academic Consequences**: Any academic issues that may arise from how you choose to use this material. Each student is responsible for understanding and following their own academic integrity policies.
@@ -48,7 +48,7 @@ By accessing this repository, fellow students acknowledge:
 - Learning happens through understanding concepts, not copying solutions
 - Proper attribution should be given when referencing ideas or approaches
 
-### Intent Behind Sharing
+#### Intent Behind Sharing
 I'm sharing this work because:
 - We're all working through these challenging concepts together
 - Collaboration and peer support enhance everyone's learning
