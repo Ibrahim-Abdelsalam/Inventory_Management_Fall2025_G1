@@ -26,5 +26,3 @@ Fellow students using this reference can explore:
 2. Place your inventory data in the expected CSV format
 3. Run the Jupyter notebook to see the analysis in action
 4. Modify parameters to experiment with different scenarios
-
-Happy learning, everyone! 📚✨
