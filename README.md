@@ -1,7 +1,7 @@
 ## Peer Collaboration Disclaimer and Terms of Use
 
 ### Educational Sharing License
-This repository and its contents are shared among **fellow students** to assist peers in understanding inventory management concepts, specifically Dollar-by-Value (DBV) analysis and ABC classification methodologies. This is a collaborative effort to support mutual learning.
+This repository and its contents are shared among **fellow students** to assist peers in understanding inventory management concepts. This is a collaborative effort to support mutual learning.
 
 ### Terms and Conditions
 
